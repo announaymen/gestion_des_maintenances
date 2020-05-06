@@ -22,9 +22,9 @@ class Students extends Component {
   render() {
     return (
       <div>
-        <h2>Studentsss</h2>
+        <h1>Students</h1>
         <ul>
-          hhhhhhhhh
+          <h4> This names come from the the API (backend)</h4>
           {this.state.students.map((student) => (
             <li key={student.id}>
               {student.firstName} {student.lastName}
