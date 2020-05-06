@@ -7,7 +7,7 @@ from here: https://code.visualstudio.com/download
 git clone  https://github.com/announaymen/gestion_des_maintenances.git
 
 # open terminal of visual studio code
-cd <the repository project folder>
+cd gestion_des_maintenances
 
 # Install dependencies for server
 npm install
