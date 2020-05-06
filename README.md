@@ -4,6 +4,7 @@
 # install visual studio code
 from here: https://code.visualstudio.com/download
 # clone the repository
+https://github.com/announaymen/gestion_des_maintenances.git
 open terminal of visual studio code
 cd <the repository project folder>
 # Install dependencies for server
